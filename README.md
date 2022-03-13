@@ -1,6 +1,6 @@
 # Catch
 Catch is a brute force tool that is used to brute force most websites
-#contact:tablos@protonmail.com
+#contact: tablos@protonmail.com - tablos@anonim.community
 
 #website:https://tablos.000webhostapp.com/
 # Update! recoded by Tablos
@@ -55,6 +55,22 @@ sudo ./install.sh
 
 sudo catch
 ```
+
+tablos@anonymous~$catch
+
+  ____      _       _     
+ / ___|__ _| |_ ___| |__  
+| |   / _` | __/ __| '_ \ 
+| |__| (_| | || (__| | | |
+ \____\__,_|\__\___|_| |_|
+                          
+  [-]--> V.1.0
+  [-]--> coded by Tablos
+  [-]-->https://tablos.000webhostapp.com/                   
+
+[~] Enter a website url:
+
+
 chrome driver and chrome are also required!
 link to chrome driver: http://chromedriver.chromium.org/downloads
 copy it to bin!
